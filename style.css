@@ -1,0 +1,50 @@
+.btn
+{
+    
+      width:120px;
+      background-color: red;
+      height:40px;
+      padding :5px;
+      margin-left:50px;
+      font-style:oblique;
+   
+     
+      border-radius:50px;
+      border-width: 5px;
+  
+     
+      margin-top: 130px;
+}
+
+.div2
+{
+    position:absolute;
+    top:150px;
+    left:100px;
+}
+h2{
+    color:white;
+    font-family:cursive;
+    background-color: indigo;
+    border-radius: 8px;
+    border-style: dotted;
+}
+.music_sys
+{
+    width:90%;
+ left:180px;
+ margin-left:90px;
+ margin-top: 80px;
+
+
+
+    background-image: url("img3.jpg");
+    background-repeat: no-repeat;
+    height: 80%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+
+    background-size: cover;
+   
+}
